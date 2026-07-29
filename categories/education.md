@@ -144,6 +144,14 @@ Education apps use subscription paywalls to communicate value and convert users 
 | Car games for toddler and kids | $16.65K | Free Trial - Soft Paywall | [Open](../apps/car-games-for-toddler-and-kids-1586113521.md) |
 | Kids Coloring. Drawing Games | $16.58K | Free Trial - Soft Paywall | [Open](../apps/kids-coloring-drawing-games-6444398254.md) |
 | Photo Math: AI Homework Helper | $16.42K | Free Trial - Soft Paywall | [Open](../apps/photo-math-ai-homework-helper-6473621954.md) |
+| PlantIn: Plant Identifier・Care | $16.11K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/plantin-plant-identifier-care-1527399597.md) |
+| Hungry Caterpillar Play School | $16.00K | Free Trial - Soft Paywall | [Open](../apps/hungry-caterpillar-play-school-1318671922.md) |
+| Thinkrolls: Fun Kids Games 2-8 | $15.30K | Free Trial - Soft Paywall | [Open](../apps/thinkrolls-fun-kids-games-2-8-1530907314.md) |
+| ATI TEAS EXAM PREP 2026 - 2027 | $15.24K | No Free Trial - Soft Paywall | [Open](../apps/ati-teas-exam-prep-2026-2027-6738591269.md) |
+| Learn Spanish – Studycat | $14.71K | Free Trial - Soft Paywall | [Open](../apps/learn-spanish-studycat-661574705.md) |
+| TinyTap: Kids' Learning Games | $14.38K | Free Trial - Soft Paywall | [Open](../apps/tinytap-kids-learning-games-493868874.md) |
+| Headway - Daily Micro Learning | $14.18K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/headway-daily-micro-learning-1457185832.md) |
+| Umi - Language Learning | $14.14K | Free Trial - Soft Paywall | [Open](../apps/umi-language-learning-1628381103.md) |
 | Lingvano - Learn Sign Language | $13.58K | Free Trial - Soft Paywall | [Open](../apps/lingvano-learn-sign-language-1547252782.md) |
 | LEGO® DUPLO® MARVEL | $992 | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-marvel-1573101225.md) |
 

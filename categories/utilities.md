@@ -73,6 +73,12 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | SMS Virtual - Receive SMS | $17.40K | No Free Trial - Soft Paywall | [Open](../apps/sms-virtual-receive-sms-1558276033.md) |
 | WhatSticker - Sticker Maker | $17.39K | Free Trial - Soft Paywall | [Open](../apps/whatsticker-sticker-maker-1147094379.md) |
 | Pure Cleaner: Clean Storage | $17.09K | Free Trial - Soft Paywall | [Open](../apps/pure-cleaner-clean-storage-6740195889.md) |
+| SnapAI: Scan Anything | $16.20K | Free Trial - Soft Paywall | [Open](../apps/snapai-scan-anything-6740606447.md) |
+| Second Phone Number, 2nd Line | $16.17K | No Free Trial - Soft Paywall | [Open](../apps/second-phone-number-2nd-line-6470302849.md) |
+| Remote for Samsung TV Smart | $15.99K | Free Trial - Soft Paywall | [Open](../apps/remote-for-samsung-tv-smart-6474010687.md) |
+| AI Defender - Phone Cleaner | $15.47K | No Free Trial - Soft Paywall | [Open](../apps/ai-defender-phone-cleaner-6749560333.md) |
+| iRecord: Transcribe Voice Memo | $14.94K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/irecord-transcribe-voice-memo-1617942783.md) |
+| Castly+ | $14.75K | No Free Trial - Soft Paywall | [Open](../apps/castly-6447676034.md) |
 | QR Reader for iPhone | $4.46K | Free Trial - Soft Paywall | [Open](../apps/qr-reader-for-iphone-368494609.md) |
 | Clean Manager: Storage Cleaner | $2.56K | Free Trial - Soft Paywall | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
 

@@ -68,6 +68,10 @@ Productivity apps often convert users by selling time savings, professional outp
 | AI Chatbot - Ask Me Anything | $19.24K | Free Trial - Soft Paywall | [Open](../apps/ai-chatbot-ask-me-anything-1668805457.md) |
 | Text Number-Phone Text Message | $19.21K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/text-number-phone-text-message-1639787026.md) |
 | 百度网盘 | $17.23K | No Free Trial - Soft Paywall | [Open](../apps/-547166701.md) |
+| FamilyWall: Family Organizer | $16.19K | Free Trial - Soft Paywall | [Open](../apps/familywall-family-organizer-496889629.md) |
+| SpyGuard VPN Pro | $15.92K | No Free Trial - Soft Paywall | [Open](../apps/spyguard-vpn-pro-6590635174.md) |
+| AI Chatbot with Сhat - Chatrun | $15.44K | Free Trial - Soft Paywall | [Open](../apps/ai-chatbot-with-hat-chatrun-6446992925.md) |
+| VPN - Fast VPN Super ™ | $14.42K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/vpn-fast-vpn-super-1528940523.md) |
 | 1Password: Password Manager | $7.15K | No Free Trial - Soft Paywall | [Open](../apps/1password-password-manager-1511601750.md) |
 | Bark - Parental Controls | $6.43K | No Free Trial - Soft Paywall | [Open](../apps/bark-parental-controls-1477619146.md) |
 | LastPass Password Manager | $4.97K | No Free Trial - Soft Paywall | [Open](../apps/lastpass-password-manager-324613447.md) |

@@ -25,6 +25,8 @@ Medical apps use subscription paywalls to communicate value and convert users in
 | Blood Oxygen App | $20.28K | No Free Trial - Soft Paywall | [Open](../apps/blood-oxygen-app-1541992656.md) |
 | Contraction Timer & Counter 9m | $18.59K | No Free Trial - Soft Paywall | [Open](../apps/contraction-timer-and-counter-9m-877303791.md) |
 | AMBOSS Medical Knowledge | $17.11K | Free Trial - Soft Paywall | [Open](../apps/amboss-medical-knowledge-1169487026.md) |
+| Baby Connect: Newborn Tracker | $15.36K | No Free Trial - Soft Paywall | [Open](../apps/baby-connect-newborn-tracker-326574411.md) |
+| Complete Anatomy for iPhone | $15.13K | No Free Trial - Soft Paywall | [Open](../apps/complete-anatomy-for-iphone-1309253074.md) |
 
 ## What to study
 

@@ -64,6 +64,9 @@ Music apps often convert by selling ad-free listening, offline access, better pl
 | Jamzone - Sing & Play Along | $18.39K | No Free Trial - Soft Paywall | [Open](../apps/jamzone-sing-and-play-along-998972770.md) |
 | Ringtones: for iPhone | $17.22K | Free Trial - Soft Paywall | [Open](../apps/ringtones-for-iphone-1470100930.md) |
 | Rapchat: Music Maker Studio | $17.03K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/rapchat-music-maker-studio-804913240.md) |
+| Banger: AI Music Generator | $15.90K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/banger-ai-music-generator-6452017015.md) |
+| rekordbox - DJ App & DJ Mixer | $15.41K | Free Trial - Soft Paywall | [Open](../apps/rekordbox-dj-app-and-dj-mixer-1487048203.md) |
+| AI Song Generator - Jukebox | $15.31K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-generator-jukebox-6733226170.md) |
 | Simply Sing: My Singing App | $9.03K | Free Trial - Soft Paywall | [Open](../apps/simply-sing-my-singing-app-1592900217.md) |
 | AI Song Generator - Zona | $3.54K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-generator-zona-6499261254.md) |
 

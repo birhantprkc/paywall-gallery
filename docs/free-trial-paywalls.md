@@ -874,8 +874,56 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | TouchShort-TV | Entertainment | [Open](../apps/touchshort-tv-6504555661.md) |
 | Photo Math: AI Homework Helper | Education | [Open](../apps/photo-math-ai-homework-helper-6473621954.md) |
 | iHeart-Pulse Rate Monitor App. | Health & Fitness | [Open](../apps/iheart-pulse-rate-monitor-app-6462593274.md) |
+| Check Heart Rate Now | Health & Fitness | [Open](../apps/check-heart-rate-now-6467655857.md) |
+| Detroit Free Press: Freep | News | [Open](../apps/detroit-free-press-freep-904023476.md) |
+| SnapAI: Scan Anything | Utilities | [Open](../apps/snapai-scan-anything-6740606447.md) |
+| Nixplay | Photo & Video | [Open](../apps/nixplay-977559373.md) |
+| FamilyWall: Family Organizer | Productivity | [Open](../apps/familywall-family-organizer-496889629.md) |
+| Second Phone Number, 2nd Line | Utilities | [Open](../apps/second-phone-number-2nd-line-6470302849.md) |
+| PlantIn: Plant Identifier・Care | Education | [Open](../apps/plantin-plant-identifier-care-1527399597.md) |
+| Prequel: Photo & Video Editor | Photo & Video | [Open](../apps/prequel-photo-and-video-editor-1325756279.md) |
+| Hungry Caterpillar Play School | Education | [Open](../apps/hungry-caterpillar-play-school-1318671922.md) |
+| Parental Control App - Kidslox | Lifestyle | [Open](../apps/parental-control-app-kidslox-914825567.md) |
+| Remote for Samsung TV Smart | Utilities | [Open](../apps/remote-for-samsung-tv-smart-6474010687.md) |
+| Hello Kitty Nail Salon | Entertainment | [Open](../apps/hello-kitty-nail-salon-949737354.md) |
+| SpyGuard VPN Pro | Productivity | [Open](../apps/spyguard-vpn-pro-6590635174.md) |
+| Banger: AI Music Generator | Music | [Open](../apps/banger-ai-music-generator-6452017015.md) |
+| Location Tracker: Find Family | Social Networking | [Open](../apps/location-tracker-find-family-6740904053.md) |
+| Pixi Ai：Photo Magic&Ai Video | Photo & Video | [Open](../apps/pixi-ai-photo-magic-and-ai-video-6755904405.md) |
+| Emochi: Unlimited Chat with AI | Entertainment | [Open](../apps/emochi-unlimited-chat-with-ai-6476081894.md) |
+| Market Movers | Sports | [Open](../apps/market-movers-1561027917.md) |
+| AI Video Generator-VideoMax | Photo & Video | [Open](../apps/ai-video-generator-videomax-6737295005.md) |
+| AI Defender - Phone Cleaner | Utilities | [Open](../apps/ai-defender-phone-cleaner-6749560333.md) |
+| AI Chatbot with Сhat - Chatrun | Productivity | [Open](../apps/ai-chatbot-with-hat-chatrun-6446992925.md) |
+| rekordbox - DJ App & DJ Mixer | Music | [Open](../apps/rekordbox-dj-app-and-dj-mixer-1487048203.md) |
+| Baby Connect: Newborn Tracker | Medical | [Open](../apps/baby-connect-newborn-tracker-326574411.md) |
+| Resume Builder Pro with AI | Business | [Open](../apps/resume-builder-pro-with-ai-1457411537.md) |
+| AI Song Generator - Jukebox | Music | [Open](../apps/ai-song-generator-jukebox-6733226170.md) |
+| Thinkrolls: Fun Kids Games 2-8 | Education | [Open](../apps/thinkrolls-fun-kids-games-2-8-1530907314.md) |
+| PicPlayPost: Video Editor | Photo & Video | [Open](../apps/picplaypost-video-editor-498127541.md) |
+| ATI TEAS EXAM PREP 2026 - 2027 | Education | [Open](../apps/ati-teas-exam-prep-2026-2027-6738591269.md) |
+| Version AI: AI Photo Creator | Photo & Video | [Open](../apps/version-ai-ai-photo-creator-6744824597.md) |
+| Complete Anatomy for iPhone | Medical | [Open](../apps/complete-anatomy-for-iphone-1309253074.md) |
+| Faves - cloud video storage | Social Networking | [Open](../apps/faves-cloud-video-storage-1490305477.md) |
+| iRecord: Transcribe Voice Memo | Utilities | [Open](../apps/irecord-transcribe-voice-memo-1617942783.md) |
+| Heartify: Heart Health Monitor | Health & Fitness | [Open](../apps/heartify-heart-health-monitor-1546156891.md) |
+| Castly+ | Utilities | [Open](../apps/castly-6447676034.md) |
+| CHAI: Social AI Platform- Chat | Entertainment | [Open](../apps/chai-social-ai-platform-chat-1544750895.md) |
+| Video Editor · | Photo & Video | [Open](../apps/video-editor-1438312320.md) |
+| Learn Spanish – Studycat | Education | [Open](../apps/learn-spanish-studycat-661574705.md) |
 | Video Up! Video Editor & Maker | Photo & Video | [Open](../apps/video-up-video-editor-and-maker-1585824635.md) |
+| VPN - Fast VPN Super ™ | Productivity | [Open](../apps/vpn-fast-vpn-super-1528940523.md) |
+| Natal - Pregnancy & Postpartum | Health & Fitness | [Open](../apps/natal-pregnancy-and-postpartum-6596773195.md) |
+| TinyTap: Kids' Learning Games | Education | [Open](../apps/tinytap-kids-learning-games-493868874.md) |
+| AI Secure Suite | Lifestyle | [Open](../apps/ai-secure-suite-6756100560.md) |
+| Chicago Tribune | News | [Open](../apps/chicago-tribune-383137151.md) |
 | Fishbrain - Fishing App | Sports | [Open](../apps/fishbrain-fishing-app-477967747.md) |
+| Headway - Daily Micro Learning | Education | [Open](../apps/headway-daily-micro-learning-1457185832.md) |
+| Umi - Language Learning | Education | [Open](../apps/umi-language-learning-1628381103.md) |
+| OnPhone: Second Number & eSIM | Business | [Open](../apps/onphone-second-number-and-esim-1564051387.md) |
+| Muslim Pro: Quran & Athan | Reference | [Open](../apps/muslim-pro-quran-and-athan-388389451.md) |
+| ColombianCupid: Latin Dating | Social Networking | [Open](../apps/colombiancupid-latin-dating-1601321143.md) |
+| EaShort-Popular short dramas | Entertainment | [Open](../apps/eashort-popular-short-dramas-6458737333.md) |
 | Lingvano - Learn Sign Language | Education | [Open](../apps/lingvano-learn-sign-language-1547252782.md) |
 | Photo Collage Maker PicJointer | Photo & Video | [Open](../apps/photo-collage-maker-picjointer-509987785.md) |
 | Invoice Maker - Invoice Fly | Business | [Open](../apps/invoice-maker-invoice-fly-1606911248.md) |

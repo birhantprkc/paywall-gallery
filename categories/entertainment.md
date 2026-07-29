@@ -51,6 +51,11 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | Univision Now | $17.25K | No Free Trial - Soft Paywall | [Open](../apps/univision-now-1049321283.md) |
 | ShortMax - Short Dramas & TV | $16.94K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/shortmax-short-dramas-and-tv-6464002625.md) |
 | TouchShort-TV | $16.50K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/touchshort-tv-6504555661.md) |
+| Hello Kitty Nail Salon | $15.93K | No Free Trial - Soft Paywall | [Open](../apps/hello-kitty-nail-salon-949737354.md) |
+| Emochi: Unlimited Chat with AI | $15.71K | No Free Trial - Soft Paywall | [Open](../apps/emochi-unlimited-chat-with-ai-6476081894.md) |
+| CHAI: Social AI Platform- Chat | $14.73K | Free Trial - Soft Paywall | [Open](../apps/chai-social-ai-platform-chat-1544750895.md) |
+| BerryChat - Video | $14.41K | Currency Paywall | [Open](../apps/berrychat-video-6630382800.md) |
+| EaShort-Popular short dramas | $13.90K | No Free Trial - Soft Paywall | [Open](../apps/eashort-popular-short-dramas-6458737333.md) |
 
 ## What to study
 

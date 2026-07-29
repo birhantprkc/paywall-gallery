@@ -49,6 +49,8 @@ Business apps often convert users by selling professional growth, productivity, 
 | Package Tracker － Packy | $20.21K | Free Trial - Soft Paywall | [Open](../apps/package-tracker-packy-6737194931.md) |
 | eFax® Plus-Pro-Protect | $17.48K | No Free Trial - Soft Paywall | [Open](../apps/efax-plus-pro-protect-399922064.md) |
 | Smart Printer App - Air Print | $17.10K | No Free Trial - Soft Paywall | [Open](../apps/smart-printer-app-air-print-1602635337.md) |
+| Resume Builder Pro with AI | $15.33K | Free Trial - Soft Paywall | [Open](../apps/resume-builder-pro-with-ai-1457411537.md) |
+| OnPhone: Second Number & eSIM | $14.09K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/onphone-second-number-and-esim-1564051387.md) |
 | Invoice Maker - Invoice Fly | $10.88K | Free Trial - Soft Paywall | [Open](../apps/invoice-maker-invoice-fly-1606911248.md) |
 | ScanGuru: PDF Scanner App | $3.35K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/scanguru-pdf-scanner-app-1040149161.md) |
 

@@ -69,6 +69,10 @@ Social Networking apps use subscription paywalls to communicate value and conver
 | Zigazoo | $19.50K | Free Trial - Soft Paywall | [Open](../apps/zigazoo-1506092240.md) |
 | BlackGentry: Black Dating App | $18.48K | No Free Trial - Soft Paywall | [Open](../apps/blackgentry-black-dating-app-1494548587.md) |
 | CatholicMatch Dating App | $17.13K | No Free Trial - Soft Paywall | [Open](../apps/catholicmatch-dating-app-1438033563.md) |
+| Location Tracker: Find Family | $15.73K | No Free Trial - Soft Paywall | [Open](../apps/location-tracker-find-family-6740904053.md) |
+| Faves - cloud video storage | $14.96K | Free Trial - Soft Paywall | [Open](../apps/faves-cloud-video-storage-1490305477.md) |
+| ColombianCupid: Latin Dating | $13.96K | No Free Trial - Soft Paywall | [Open](../apps/colombiancupid-latin-dating-1601321143.md) |
+| HilYal Live:Stream and Friends | $13.79K | Currency Paywall | [Open](../apps/hilyal-live-stream-and-friends-1615501545.md) |
 | Bumpy – International Dating | $8.43K | No Free Trial - Soft Paywall | [Open](../apps/bumpy-international-dating-1455336523.md) |
 | Repost+ for Instagram . | $7.43K | Free Trial - Soft Paywall | [Open](../apps/repost-for-instagram-1477820240.md) |
 | GraceChat | $3.15K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/gracechat-1658972379.md) |

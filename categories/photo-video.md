@@ -115,6 +115,13 @@ Photo and video apps often rely on creative control, premium features, editing c
 | VEED Shorts: AI videos | $18.03K | Free Trial - Soft Paywall | [Open](../apps/veed-shorts-ai-videos-1634439688.md) |
 | PhotoDirector: AI Photo Editor | $17.55K | Free Trial - Soft Paywall | [Open](../apps/photodirector-ai-photo-editor-907366587.md) |
 | Glam App - AI Video Generator | $17.35K | No Free Trial - Soft Paywall | [Open](../apps/glam-app-ai-video-generator-6746596173.md) |
+| Nixplay | $16.20K | Free Trial - Soft Paywall | [Open](../apps/nixplay-977559373.md) |
+| Prequel: Photo & Video Editor | $16.08K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/prequel-photo-and-video-editor-1325756279.md) |
+| Pixi Ai：Photo Magic&Ai Video | $15.71K | No Free Trial - Soft Paywall | [Open](../apps/pixi-ai-photo-magic-and-ai-video-6755904405.md) |
+| AI Video Generator-VideoMax | $15.50K | No Free Trial - Soft Paywall | [Open](../apps/ai-video-generator-videomax-6737295005.md) |
+| PicPlayPost: Video Editor | $15.28K | Free Trial - Soft Paywall | [Open](../apps/picplaypost-video-editor-498127541.md) |
+| Version AI: AI Photo Creator | $15.16K | No Free Trial - Soft Paywall | [Open](../apps/version-ai-ai-photo-creator-6744824597.md) |
+| Video Editor · | $14.73K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/video-editor-1438312320.md) |
 | Video Up! Video Editor & Maker | $14.43K | No Free Trial - Soft Paywall | [Open](../apps/video-up-video-editor-and-maker-1585824635.md) |
 | Photo Collage Maker PicJointer | $11.57K | Free Trial - Soft Paywall | [Open](../apps/photo-collage-maker-picjointer-509987785.md) |
 | Rumble: Livestreams & Videos | $9.34K | No Free Trial - Soft Paywall | [Open](../apps/rumble-livestreams-and-videos-1518427877.md) |
