@@ -72,6 +72,12 @@ Productivity apps often convert users by selling time savings, professional outp
 | SpyGuard VPN Pro | $15.92K | No Free Trial - Soft Paywall | [Open](../apps/spyguard-vpn-pro-6590635174.md) |
 | AI Chatbot with Сhat - Chatrun | $15.44K | Free Trial - Soft Paywall | [Open](../apps/ai-chatbot-with-hat-chatrun-6446992925.md) |
 | VPN - Fast VPN Super ™ | $14.42K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/vpn-fast-vpn-super-1528940523.md) |
+| Strides: Habit Tracker + Goals | $13.41K | Free Trial - Soft Paywall | [Open](../apps/strides-habit-tracker-goals-672401817.md) |
+| Freedom: Screen Time Control | $13.24K | Free Trial - Soft Paywall | [Open](../apps/freedom-screen-time-control-1269788228.md) |
+| ClearSpace: Reduce Screen Time | $13.14K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/clearspace-reduce-screen-time-1572515807.md) |
+| ClearNet VPN Secure | $12.59K | Free Trial - Soft Paywall | [Open](../apps/clearnet-vpn-secure-6747262267.md) |
+| WeTransfer: Transfer Files | $12.57K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/wetransfer-transfer-files-1569379048.md) |
+| Chatbot AI - Smart Search Bot | $12.19K | Free Trial - Soft Paywall | [Open](../apps/chatbot-ai-smart-search-bot-6476502171.md) |
 | 1Password: Password Manager | $7.15K | No Free Trial - Soft Paywall | [Open](../apps/1password-password-manager-1511601750.md) |
 | Bark - Parental Controls | $6.43K | No Free Trial - Soft Paywall | [Open](../apps/bark-parental-controls-1477619146.md) |
 | LastPass Password Manager | $4.97K | No Free Trial - Soft Paywall | [Open](../apps/lastpass-password-manager-324613447.md) |

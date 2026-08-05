@@ -67,6 +67,10 @@ Music apps often convert by selling ad-free listening, offline access, better pl
 | Banger: AI Music Generator | $15.90K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/banger-ai-music-generator-6452017015.md) |
 | rekordbox - DJ App & DJ Mixer | $15.41K | Free Trial - Soft Paywall | [Open](../apps/rekordbox-dj-app-and-dj-mixer-1487048203.md) |
 | AI Song Generator - Jukebox | $15.31K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-generator-jukebox-6733226170.md) |
+| Yokee Karaoke – Start Singing | $13.61K | Free Trial - Soft Paywall | [Open](../apps/yokee-karaoke-start-singing-547109049.md) |
+| JioSaavn – Music & Podcasts | $12.96K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/jiosaavn-music-and-podcasts-441813332.md) |
+| MP3 Converter : music editor | $12.77K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/mp3-converter-music-editor-6469768761.md) |
+| Ukulele Tuner & Lessons: Kala | $12.73K | Free Trial - Soft Paywall | [Open](../apps/ukulele-tuner-and-lessons-kala-1064893690.md) |
 | Simply Sing: My Singing App | $9.03K | Free Trial - Soft Paywall | [Open](../apps/simply-sing-my-singing-app-1592900217.md) |
 | AI Song Generator - Zona | $3.54K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-generator-zona-6499261254.md) |
 

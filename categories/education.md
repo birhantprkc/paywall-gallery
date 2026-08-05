@@ -152,7 +152,17 @@ Education apps use subscription paywalls to communicate value and convert users 
 | TinyTap: Kids' Learning Games | $14.38K | Free Trial - Soft Paywall | [Open](../apps/tinytap-kids-learning-games-493868874.md) |
 | Headway - Daily Micro Learning | $14.18K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/headway-daily-micro-learning-1457185832.md) |
 | Umi - Language Learning | $14.14K | Free Trial - Soft Paywall | [Open](../apps/umi-language-learning-1628381103.md) |
+| Puzzle Games for Kids 2-6 year | $13.78K | Free Trial - Soft Paywall | [Open](../apps/puzzle-games-for-kids-2-6-year-1544733488.md) |
 | Lingvano - Learn Sign Language | $13.58K | Free Trial - Soft Paywall | [Open](../apps/lingvano-learn-sign-language-1547252782.md) |
+| Skoove: Learn to Play Piano | $13.54K | Free Trial - Soft Paywall | [Open](../apps/skoove-learn-to-play-piano-1160668178.md) |
+| GTO Preflop Wizard Poker AI | $13.35K | No Free Trial - Hard Paywall, No Free Trial - Soft Paywall | [Open](../apps/gto-preflop-wizard-poker-ai-6590603158.md) |
+| Affemity: Relationship Coach | $13.25K | No Free Trial - Soft Paywall | [Open](../apps/affemity-relationship-coach-6745899751.md) |
+| CDL Prep - Practice Test 2026 | $13.15K | Free Trial - Soft Paywall | [Open](../apps/cdl-prep-practice-test-2026-6446039122.md) |
+| Math Learner: Learning Game | $13.14K | Free Trial - Soft Paywall | [Open](../apps/math-learner-learning-game-1148728253.md) |
+| Picture Insect: Bug Identifier | $12.90K | Free Trial - Soft Paywall | [Open](../apps/picture-insect-bug-identifier-1461694973.md) |
+| Coloring Book - Kids Games 2+ | $12.85K | Free Trial - Soft Paywall | [Open](../apps/coloring-book-kids-games-2-1635552708.md) |
+| Toddler Games for 3+ years old | $12.74K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/toddler-games-for-3-years-old-1527978047.md) |
+| Learn to Read - Reading.com | $12.67K | Free Trial - Soft Paywall | [Open](../apps/learn-to-read-reading-com-1534938305.md) |
 | LEGO® DUPLO® MARVEL | $992 | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-marvel-1573101225.md) |
 
 ## What to study

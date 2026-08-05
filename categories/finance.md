@@ -22,6 +22,8 @@ Finance apps use subscription paywalls to communicate value and convert users in
 | MarketWatch - News & Data | $22.24K | No Free Trial - Soft Paywall | [Open](../apps/marketwatch-news-and-data-336693422.md) |
 | Gridwise: Gig Driver Assistant | $19.92K | Free Trial - Soft Paywall | [Open](../apps/gridwise-gig-driver-assistant-1215991382.md) |
 | TipRanks Stock Market Analysis | $17.62K | No Free Trial - Soft Paywall | [Open](../apps/tipranks-stock-market-analysis-1237516490.md) |
+| Bitcoin Mining: Crypto Miner | $12.68K | No Free Trial - Soft Paywall | [Open](../apps/bitcoin-mining-crypto-miner-6468313323.md) |
+| Stocks To Buy Now : AI Signals | $12.18K | No Free Trial - Soft Paywall | [Open](../apps/stocks-to-buy-now-ai-signals-1565527320.md) |
 
 ## What to study
 

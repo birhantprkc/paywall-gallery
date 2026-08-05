@@ -40,6 +40,10 @@ News apps use subscription paywalls to communicate value and convert users into 
 | Business Insider: News & more | $16.98K | No Free Trial - Soft Paywall | [Open](../apps/business-insider-news-and-more-554260576.md) |
 | Detroit Free Press: Freep | $16.21K | No Free Trial - Soft Paywall | [Open](../apps/detroit-free-press-freep-904023476.md) |
 | Chicago Tribune | $14.28K | No Free Trial - Soft Paywall | [Open](../apps/chicago-tribune-383137151.md) |
+| Le Monde, Live News | $13.63K | No Free Trial - Soft Paywall | [Open](../apps/le-monde-live-news-294047850.md) |
+| The Economist: News & Analysis | $12.58K | Free Trial - Soft Paywall | [Open](../apps/the-economist-news-and-analysis-1239397626.md) |
+| The Information: Tech News | $12.26K | No Free Trial - Soft Paywall | [Open](../apps/the-information-tech-news-1485459932.md) |
+| Pocket Casts: Podcast Player | $12.19K | Free Trial - Soft Paywall | [Open](../apps/pocket-casts-podcast-player-414834813.md) |
 
 ## What to study
 

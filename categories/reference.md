@@ -22,6 +22,7 @@ Reference apps use subscription paywalls to communicate value and convert users 
 | Coin ID: Coin Value Identifier | $19.56K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/coin-id-coin-value-identifier-1665672552.md) |
 | MyHeritage: Family Tree & DNA | $17.63K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/myheritage-family-tree-and-dna-477971748.md) |
 | Muslim Pro: Quran & Athan | $14.08K | Free Trial - Soft Paywall | [Open](../apps/muslim-pro-quran-and-athan-388389451.md) |
+| #Bible - Verse of the Day | $13.40K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/bible-verse-of-the-day-1255711035.md) |
 | CoinSnap: Coin Identifier | $5.70K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/coinsnap-coin-identifier-1634551626.md) |
 
 ## What to study

@@ -15,6 +15,8 @@ Food & Drink apps use subscription paywalls to communicate value and convert use
 | Gronda: Recipes for Chefs | $50.66K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/gronda-recipes-for-chefs-1164423781.md) |
 | eMeals - Healthy Meal Plans | $30.33K | Free Trial - Soft Paywall | [Open](../apps/emeals-healthy-meal-plans-575756462.md) |
 | Seed Oil Scout: Healthy Dining | $24.03K | Free Trial - Soft Paywall | [Open](../apps/seed-oil-scout-healthy-dining-1627514527.md) |
+| Epicurious | $13.38K | Free Trial - Soft Paywall | [Open](../apps/epicurious-312101965.md) |
+| CellarTracker: #1 Wine Tracker | $12.69K | Free Trial - Soft Paywall | [Open](../apps/cellartracker-1-wine-tracker-6446102275.md) |
 
 ## What to study
 

@@ -27,6 +27,7 @@ Medical apps use subscription paywalls to communicate value and convert users in
 | AMBOSS Medical Knowledge | $17.11K | Free Trial - Soft Paywall | [Open](../apps/amboss-medical-knowledge-1169487026.md) |
 | Baby Connect: Newborn Tracker | $15.36K | No Free Trial - Soft Paywall | [Open](../apps/baby-connect-newborn-tracker-326574411.md) |
 | Complete Anatomy for iPhone | $15.13K | No Free Trial - Soft Paywall | [Open](../apps/complete-anatomy-for-iphone-1309253074.md) |
+| Clarity: CBT Self Help Journal | $12.19K | Free Trial - Soft Paywall | [Open](../apps/clarity-cbt-self-help-journal-1010391170.md) |
 
 ## What to study
 

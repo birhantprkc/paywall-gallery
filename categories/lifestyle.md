@@ -84,6 +84,7 @@ Lifestyle apps often convert by selling better outcomes, personalization, confid
 | Daylio Journal - Mood Tracker | $16.66K | Free Trial - Soft Paywall | [Open](../apps/daylio-journal-mood-tracker-1194023242.md) |
 | Parental Control App - Kidslox | $16.00K | No Free Trial - Soft Paywall | [Open](../apps/parental-control-app-kidslox-914825567.md) |
 | AI Secure Suite | $14.35K | No Free Trial - Soft Paywall | [Open](../apps/ai-secure-suite-6756100560.md) |
+| YI Home | $13.57K | Free Trial - Soft Paywall | [Open](../apps/yi-home-1011626777.md) |
 | Plant Parent: Plant Care Guide | $8.63K | Free Trial - Soft Paywall | [Open](../apps/plant-parent-plant-care-guide-1612792132.md) |
 
 ## What to study

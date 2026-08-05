@@ -924,7 +924,57 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | Muslim Pro: Quran & Athan | Reference | [Open](../apps/muslim-pro-quran-and-athan-388389451.md) |
 | ColombianCupid: Latin Dating | Social Networking | [Open](../apps/colombiancupid-latin-dating-1601321143.md) |
 | EaShort-Popular short dramas | Entertainment | [Open](../apps/eashort-popular-short-dramas-6458737333.md) |
+| Puzzle Games for Kids 2-6 year | Education | [Open](../apps/puzzle-games-for-kids-2-6-year-1544733488.md) |
+| Brickit: Your Brick Collection | Entertainment | [Open](../apps/brickit-your-brick-collection-1477221636.md) |
+| Le Monde, Live News | News | [Open](../apps/le-monde-live-news-294047850.md) |
+| Yokee Karaoke – Start Singing | Music | [Open](../apps/yokee-karaoke-start-singing-547109049.md) |
 | Lingvano - Learn Sign Language | Education | [Open](../apps/lingvano-learn-sign-language-1547252782.md) |
+| YI Home | Lifestyle | [Open](../apps/yi-home-1011626777.md) |
+| HealthGuard:Heart&Blood Sugar | Health & Fitness | [Open](../apps/healthguard-heart-and-blood-sugar-6737974524.md) |
+| Skoove: Learn to Play Piano | Education | [Open](../apps/skoove-learn-to-play-piano-1160668178.md) |
+| Strides: Habit Tracker + Goals | Productivity | [Open](../apps/strides-habit-tracker-goals-672401817.md) |
+| Ask Assist - AI Chat Bot | Utilities | [Open](../apps/ask-assist-ai-chat-bot-6448989090.md) |
+| #Bible - Verse of the Day | Reference | [Open](../apps/bible-verse-of-the-day-1255711035.md) |
+| PolyBuzz: Chat with Characters | Entertainment | [Open](../apps/polybuzz-chat-with-characters-6449190344.md) |
+| Epicurious | Food & Drink | [Open](../apps/epicurious-312101965.md) |
+| Adam4Adam Gay Dating Chat A4A | Social Networking | [Open](../apps/adam4adam-gay-dating-chat-a4a-440185993.md) |
+| GTO Preflop Wizard Poker AI | Education | [Open](../apps/gto-preflop-wizard-poker-ai-6590603158.md) |
+| Retra - app console emulator | Entertainment | [Open](../apps/retra-app-console-emulator-6746222411.md) |
+| Formula 1® | Sports | [Open](../apps/formula-1-835022598.md) |
+| Bluey: Let's Play! | Entertainment | [Open](../apps/bluey-let-s-play-1669091583.md) |
+| Affemity: Relationship Coach | Education | [Open](../apps/affemity-relationship-coach-6745899751.md) |
+| Freedom: Screen Time Control | Productivity | [Open](../apps/freedom-screen-time-control-1269788228.md) |
+| CDL Prep - Practice Test 2026 | Education | [Open](../apps/cdl-prep-practice-test-2026-6446039122.md) |
+| ClearSpace: Reduce Screen Time | Productivity | [Open](../apps/clearspace-reduce-screen-time-1572515807.md) |
+| Math Learner: Learning Game | Education | [Open](../apps/math-learner-learning-game-1148728253.md) |
+| Emu — Game Consoles App | Entertainment | [Open](../apps/emu-game-consoles-app-6746169351.md) |
+| AI Cleaner: Storage Cleaner | Utilities | [Open](../apps/ai-cleaner-storage-cleaner-6496865463.md) |
+| JioSaavn – Music & Podcasts | Music | [Open](../apps/jiosaavn-music-and-podcasts-441813332.md) |
+| Picture Insect: Bug Identifier | Education | [Open](../apps/picture-insect-bug-identifier-1461694973.md) |
+| Car.Play Connect: Auto Sync | Utilities | [Open](../apps/car-play-connect-auto-sync-6740556805.md) |
+| Fax.Plus - Receive & Send Fax | Business | [Open](../apps/fax-plus-receive-and-send-fax-1170782544.md) |
+| Coloring Book - Kids Games 2+ | Education | [Open](../apps/coloring-book-kids-games-2-1635552708.md) |
+| MP3 Converter : music editor | Music | [Open](../apps/mp3-converter-music-editor-6469768761.md) |
+| Toddler Games for 3+ years old | Education | [Open](../apps/toddler-games-for-3-years-old-1527978047.md) |
+| Ukulele Tuner & Lessons: Kala | Music | [Open](../apps/ukulele-tuner-and-lessons-kala-1064893690.md) |
+| CellarTracker: #1 Wine Tracker | Food & Drink | [Open](../apps/cellartracker-1-wine-tracker-6446102275.md) |
+| Bitcoin Mining: Crypto Miner | Finance | [Open](../apps/bitcoin-mining-crypto-miner-6468313323.md) |
+| Shudder: Horror & Thrillers | Entertainment | [Open](../apps/shudder-horror-and-thrillers-919790315.md) |
+| Learn to Read - Reading.com | Education | [Open](../apps/learn-to-read-reading-com-1534938305.md) |
+| ClearNet VPN Secure | Productivity | [Open](../apps/clearnet-vpn-secure-6747262267.md) |
+| The Economist: News & Analysis | News | [Open](../apps/the-economist-news-and-analysis-1239397626.md) |
+| WeTransfer: Transfer Files | Productivity | [Open](../apps/wetransfer-transfer-files-1569379048.md) |
+| Hit Em Up: Mass Text Bulk SMS | Social Networking | [Open](../apps/hit-em-up-mass-text-bulk-sms-943630636.md) |
+| Kokoa AI: Chat, Talk, Text | Entertainment | [Open](../apps/kokoa-ai-chat-talk-text-6755166256.md) |
+| Call Santa Claus! create video | Entertainment | [Open](../apps/call-santa-claus-create-video-933921849.md) |
+| ‎AI Remodel — Interior Design | Graphics & Design | [Open](../apps/ai-remodel-interior-design-6477533581.md) |
+| WOW Presents Plus | Entertainment | [Open](../apps/wow-presents-plus-1194749500.md) |
+| The Information: Tech News | News | [Open](../apps/the-information-tech-news-1485459932.md) |
+| Novellair | Books | [Open](../apps/novellair-6448085430.md) |
+| Pocket Casts: Podcast Player | News | [Open](../apps/pocket-casts-podcast-player-414834813.md) |
+| Clarity: CBT Self Help Journal | Medical | [Open](../apps/clarity-cbt-self-help-journal-1010391170.md) |
+| Chatbot AI - Smart Search Bot | Productivity | [Open](../apps/chatbot-ai-smart-search-bot-6476502171.md) |
+| Stocks To Buy Now : AI Signals | Finance | [Open](../apps/stocks-to-buy-now-ai-signals-1565527320.md) |
 | Photo Collage Maker PicJointer | Photo & Video | [Open](../apps/photo-collage-maker-picjointer-509987785.md) |
 | Invoice Maker - Invoice Fly | Business | [Open](../apps/invoice-maker-invoice-fly-1606911248.md) |
 | Headspace: Sleep & Meditation | Health & Fitness | [Open](../apps/headspace-sleep-and-meditation-493145008.md) |

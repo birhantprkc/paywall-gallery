@@ -87,6 +87,7 @@ Health & Fitness apps use subscription paywalls to communicate value and convert
 | Check Heart Rate Now | $16.32K | Free Trial - Soft Paywall | [Open](../apps/check-heart-rate-now-6467655857.md) |
 | Heartify: Heart Health Monitor | $14.90K | Free Trial - Soft Paywall | [Open](../apps/heartify-heart-health-monitor-1546156891.md) |
 | Natal - Pregnancy & Postpartum | $14.41K | Free Trial - Soft Paywall | [Open](../apps/natal-pregnancy-and-postpartum-6596773195.md) |
+| HealthGuard:Heart&Blood Sugar | $13.54K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/healthguard-heart-and-blood-sugar-6737974524.md) |
 | Headspace: Sleep & Meditation | $10.56K | Free Trial - Soft Paywall | [Open](../apps/headspace-sleep-and-meditation-493145008.md) |
 | Calorie Counter & Food Tracker | $8.50K | No Free Trial - Soft Paywall | [Open](../apps/calorie-counter-and-food-tracker-6474290049.md) |
 | InPulse - Heart Rate Monitor | $7.32K | Free Trial - Soft Paywall | [Open](../apps/inpulse-heart-rate-monitor-1489944782.md) |

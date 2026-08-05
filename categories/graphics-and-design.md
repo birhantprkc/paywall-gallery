@@ -15,6 +15,7 @@ Graphics & Design apps use subscription paywalls to communicate value and conver
 | Pose: AI Photo Video Generator | $23.40K | Free Trial - Soft Paywall | [Open](../apps/pose-ai-photo-video-generator-6737417022.md) |
 | Morpholio Trace - Sketch CAD | $19.95K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/morpholio-trace-sketch-cad-547274918.md) |
 | Home AI - AI Interior Design | $19.68K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/home-ai-ai-interior-design-6464476667.md) |
+| ‎AI Remodel — Interior Design | $12.29K | No Free Trial - Soft Paywall | [Open](../apps/ai-remodel-interior-design-6477533581.md) |
 
 ## What to study
 

@@ -56,6 +56,15 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | CHAI: Social AI Platform- Chat | $14.73K | Free Trial - Soft Paywall | [Open](../apps/chai-social-ai-platform-chat-1544750895.md) |
 | BerryChat - Video | $14.41K | Currency Paywall | [Open](../apps/berrychat-video-6630382800.md) |
 | EaShort-Popular short dramas | $13.90K | No Free Trial - Soft Paywall | [Open](../apps/eashort-popular-short-dramas-6458737333.md) |
+| Brickit: Your Brick Collection | $13.77K | Free Trial - Soft Paywall | [Open](../apps/brickit-your-brick-collection-1477221636.md) |
+| PolyBuzz: Chat with Characters | $13.40K | No Free Trial - Soft Paywall | [Open](../apps/polybuzz-chat-with-characters-6449190344.md) |
+| Retra - app console emulator | $13.31K | No Free Trial - Soft Paywall | [Open](../apps/retra-app-console-emulator-6746222411.md) |
+| Bluey: Let's Play! | $13.25K | No Free Trial - Soft Paywall | [Open](../apps/bluey-let-s-play-1669091583.md) |
+| Emu — Game Consoles App | $13.11K | No Free Trial - Soft Paywall | [Open](../apps/emu-game-consoles-app-6746169351.md) |
+| Shudder: Horror & Thrillers | $12.67K | Free Trial - Soft Paywall | [Open](../apps/shudder-horror-and-thrillers-919790315.md) |
+| Kokoa AI: Chat, Talk, Text | $12.46K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/kokoa-ai-chat-talk-text-6755166256.md) |
+| Call Santa Claus! create video | $12.31K | No Free Trial - Soft Paywall | [Open](../apps/call-santa-claus-create-video-933921849.md) |
+| WOW Presents Plus | $12.26K | No Free Trial - Soft Paywall | [Open](../apps/wow-presents-plus-1194749500.md) |
 
 ## What to study
 

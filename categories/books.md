@@ -12,6 +12,7 @@ Books apps use subscription paywalls to communicate value and convert users into
 | GoodNovel - Booktok, Stories | $65.60K | Currency Paywall, Free Trial - Soft Paywall | [Open](../apps/goodnovel-booktok-stories-1503128132.md) |
 | Everand: Audiobooks & Ebooks | $20.10K | Free Trial - Soft Paywall | [Open](../apps/everand-audiobooks-and-ebooks-542557212.md) |
 | AnyStories-Top Novels & Books | $20.02K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/anystories-top-novels-and-books-1500217654.md) |
+| Novellair | $12.20K | Currency Paywall, No Free Trial - Soft Paywall | [Open](../apps/novellair-6448085430.md) |
 
 ## What to study
 
